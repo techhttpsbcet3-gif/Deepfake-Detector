@@ -1,0 +1,86 @@
+[
+    {
+        "timestamp": "2026-07-16 23:31:36",
+        "filename": "WhatsApp Image 2026-07-15 at 17.30.00.jpeg",
+        "label": "Real",
+        "confidence": 99.74
+    },
+    {
+        "timestamp": "2026-07-16 14:03:28",
+        "filename": "WhatsApp Image 2026-07-15 at 17.30.00.jpeg",
+        "label": "Real",
+        "confidence": 99.74
+    },
+    {
+        "timestamp": "2026-07-15 15:11:51",
+        "filename": "fake_813.jpg",
+        "label": "Fake",
+        "confidence": 99.96
+    },
+    {
+        "timestamp": "2026-07-15 15:11:41",
+        "filename": "real_32.jpg",
+        "label": "Real",
+        "confidence": 90.89
+    },
+    {
+        "timestamp": "2026-07-15 15:05:51",
+        "filename": "real_32.jpg",
+        "label": "Real",
+        "confidence": 90.89
+    },
+    {
+        "timestamp": "2026-07-15 13:51:56",
+        "filename": "fake_0.jpg",
+        "label": "Fake",
+        "confidence": 99.95
+    },
+    {
+        "timestamp": "2026-07-06 11:22:14",
+        "filename": "1.jpg",
+        "label": "Fake",
+        "confidence": 99.82
+    },
+    {
+        "timestamp": "2026-07-05 20:55:48",
+        "filename": "real_32.jpg",
+        "label": "Real",
+        "confidence": 90.89
+    },
+    {
+        "timestamp": "2026-07-05 20:55:34",
+        "filename": "1.jpg",
+        "label": "Fake",
+        "confidence": 99.82
+    },
+    {
+        "timestamp": "2026-07-05 20:28:31",
+        "filename": "1.jpg",
+        "label": "Fake",
+        "confidence": 99.82
+    },
+    {
+        "timestamp": "2026-07-05 20:27:20",
+        "filename": "real.jpg",
+        "label": "Real",
+        "confidence": 98.25
+    },
+    {
+        "timestamp": "2026-07-05 20:26:59",
+        "filename": "63689.jpg.jpeg",
+        "label": "Real",
+        "confidence": 99.76
+    },
+    {
+        "timestamp": "2026-07-05 20:26:52",
+        "filename": "fake_813.jpg",
+        "label": "Fake",
+        "confidence": 99.96
+    },
+    {
+        "timestamp": "2026-07-05 20:26:38",
+        "filename": "fake_813.jpg",
+        "label": "Fake",
+        "confidence": 99.96
+    }
+]
